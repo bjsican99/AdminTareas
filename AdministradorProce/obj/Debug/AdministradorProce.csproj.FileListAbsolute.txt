@@ -1,0 +1,9 @@
+c:\users\brian\documents\visual studio 2012\Projects\AdministradorProce\AdministradorProce\bin\Debug\AdministradorProce.exe.config
+c:\users\brian\documents\visual studio 2012\Projects\AdministradorProce\AdministradorProce\bin\Debug\AdministradorProce.exe
+c:\users\brian\documents\visual studio 2012\Projects\AdministradorProce\AdministradorProce\bin\Debug\AdministradorProce.pdb
+c:\users\brian\documents\visual studio 2012\Projects\AdministradorProce\AdministradorProce\obj\Debug\AdministradorProce.csprojResolveAssemblyReference.cache
+c:\users\brian\documents\visual studio 2012\Projects\AdministradorProce\AdministradorProce\obj\Debug\AdministradorProce.Form1.resources
+c:\users\brian\documents\visual studio 2012\Projects\AdministradorProce\AdministradorProce\obj\Debug\AdministradorProce.Properties.Resources.resources
+c:\users\brian\documents\visual studio 2012\Projects\AdministradorProce\AdministradorProce\obj\Debug\AdministradorProce.csproj.GenerateResource.Cache
+c:\users\brian\documents\visual studio 2012\Projects\AdministradorProce\AdministradorProce\obj\Debug\AdministradorProce.exe
+c:\users\brian\documents\visual studio 2012\Projects\AdministradorProce\AdministradorProce\obj\Debug\AdministradorProce.pdb
