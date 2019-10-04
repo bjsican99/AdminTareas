@@ -7,3 +7,21 @@ c:\users\brian\documents\visual studio 2012\Projects\AdministradorProce\Administ
 c:\users\brian\documents\visual studio 2012\Projects\AdministradorProce\AdministradorProce\obj\Debug\AdministradorProce.csproj.GenerateResource.Cache
 c:\users\brian\documents\visual studio 2012\Projects\AdministradorProce\AdministradorProce\obj\Debug\AdministradorProce.exe
 c:\users\brian\documents\visual studio 2012\Projects\AdministradorProce\AdministradorProce\obj\Debug\AdministradorProce.pdb
+C:\Users\Billy Sican\Desktop\AdminTareas\AdministradorProce\bin\Debug\AdministradorProce.exe.config
+C:\Users\Billy Sican\Desktop\AdminTareas\AdministradorProce\bin\Debug\AdministradorProce.exe
+C:\Users\Billy Sican\Desktop\AdminTareas\AdministradorProce\bin\Debug\AdministradorProce.pdb
+C:\Users\Billy Sican\Desktop\AdminTareas\AdministradorProce\obj\Debug\AdministradorProce.csprojResolveAssemblyReference.cache
+C:\Users\Billy Sican\Desktop\AdminTareas\AdministradorProce\obj\Debug\AdministradorProce.Form1.resources
+C:\Users\Billy Sican\Desktop\AdminTareas\AdministradorProce\obj\Debug\AdministradorProce.Properties.Resources.resources
+C:\Users\Billy Sican\Desktop\AdminTareas\AdministradorProce\obj\Debug\AdministradorProce.csproj.GenerateResource.Cache
+C:\Users\Billy Sican\Desktop\AdminTareas\AdministradorProce\obj\Debug\AdministradorProce.exe
+C:\Users\Billy Sican\Desktop\AdminTareas\AdministradorProce\obj\Debug\AdministradorProce.pdb
+C:\Users\gregorio\Desktop\simuladorProcesos\AdminTareas\AdministradorProce\bin\Debug\AdministradorProce.exe.config
+C:\Users\gregorio\Desktop\simuladorProcesos\AdminTareas\AdministradorProce\obj\Debug\AdministradorProce.exe
+C:\Users\gregorio\Desktop\simuladorProcesos\AdminTareas\AdministradorProce\obj\Debug\AdministradorProce.pdb
+C:\Users\gregorio\Desktop\simuladorProcesos\AdminTareas\AdministradorProce\bin\Debug\AdministradorProce.exe
+C:\Users\gregorio\Desktop\simuladorProcesos\AdminTareas\AdministradorProce\bin\Debug\AdministradorProce.pdb
+C:\Users\gregorio\Desktop\simuladorProcesos\AdminTareas\AdministradorProce\obj\Debug\AdministradorProce.csprojResolveAssemblyReference.cache
+C:\Users\gregorio\Desktop\simuladorProcesos\AdminTareas\AdministradorProce\obj\Debug\AdministradorProce.Form1.resources
+C:\Users\gregorio\Desktop\simuladorProcesos\AdminTareas\AdministradorProce\obj\Debug\AdministradorProce.Properties.Resources.resources
+C:\Users\gregorio\Desktop\simuladorProcesos\AdminTareas\AdministradorProce\obj\Debug\AdministradorProce.csproj.GenerateResource.Cache
