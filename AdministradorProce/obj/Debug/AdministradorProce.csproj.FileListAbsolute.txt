@@ -7,3 +7,12 @@ c:\users\brian\documents\visual studio 2012\Projects\AdministradorProce\Administ
 c:\users\brian\documents\visual studio 2012\Projects\AdministradorProce\AdministradorProce\obj\Debug\AdministradorProce.csproj.GenerateResource.Cache
 c:\users\brian\documents\visual studio 2012\Projects\AdministradorProce\AdministradorProce\obj\Debug\AdministradorProce.exe
 c:\users\brian\documents\visual studio 2012\Projects\AdministradorProce\AdministradorProce\obj\Debug\AdministradorProce.pdb
+C:\Users\Kevin Loarca\Desktop\AdminTareas\AdministradorProce\bin\Debug\AdministradorProce.exe.config
+C:\Users\Kevin Loarca\Desktop\AdminTareas\AdministradorProce\bin\Debug\AdministradorProce.exe
+C:\Users\Kevin Loarca\Desktop\AdminTareas\AdministradorProce\bin\Debug\AdministradorProce.pdb
+C:\Users\Kevin Loarca\Desktop\AdminTareas\AdministradorProce\obj\Debug\AdministradorProce.csprojResolveAssemblyReference.cache
+C:\Users\Kevin Loarca\Desktop\AdminTareas\AdministradorProce\obj\Debug\AdministradorProce.Form1.resources
+C:\Users\Kevin Loarca\Desktop\AdminTareas\AdministradorProce\obj\Debug\AdministradorProce.Properties.Resources.resources
+C:\Users\Kevin Loarca\Desktop\AdminTareas\AdministradorProce\obj\Debug\AdministradorProce.csproj.GenerateResource.Cache
+C:\Users\Kevin Loarca\Desktop\AdminTareas\AdministradorProce\obj\Debug\AdministradorProce.exe
+C:\Users\Kevin Loarca\Desktop\AdminTareas\AdministradorProce\obj\Debug\AdministradorProce.pdb
